@@ -1,22 +1,33 @@
-DroidRun AI
+DroidRun AI - Intelligent Automation Agent
 
 Overview:
-DroidRun AI is a simple AI-based automation concept that can run tasks based on user commands.
+DroidRun AI is a conceptual AI agent designed to observe system states, understand user intent,
+and perform corrective or automated actions without continuous human intervention.
 
 Problem:
-Many users want automation but do not know coding.
+Users often get stuck when apps freeze, crash, or behave unexpectedly.
+Most users do not know what action to take next.
 
 Solution:
-DroidRun AI accepts simple instructions and executes predefined actions.
+DroidRun AI analyzes the situation, decides the next best action,
+and executes it automatically to help the user.
 
-Features:
-- Task execution via commands
-- Beginner-friendly concept
-- Scalable for future AI integration
+Core Workflow:
+1. Detect current state (app crash, freeze, idle, error)
+2. Analyze possible actions
+3. Choose the best action
+4. Execute action
+5. Learn from outcome (future scope)
 
-Future Scope:
-- Voice commands
-- Mobile integration
-- Smarter AI decision making
+Uniqueness:
+- Designed for non-technical users
+- Works as an intelligent helper
+- Focus on decision-making logic, not just automation
 
-Created by Ayush
+Future Enhancements:
+- Machine learning integration
+- Android system-level control
+- Voice-based commands
+
+Author:
+Ayush Kumar
