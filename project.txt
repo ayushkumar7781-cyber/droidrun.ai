@@ -1,0 +1,22 @@
+DroidRun AI
+
+Overview:
+DroidRun AI is a simple AI-based automation concept that can run tasks based on user commands.
+
+Problem:
+Many users want automation but do not know coding.
+
+Solution:
+DroidRun AI accepts simple instructions and executes predefined actions.
+
+Features:
+- Task execution via commands
+- Beginner-friendly concept
+- Scalable for future AI integration
+
+Future Scope:
+- Voice commands
+- Mobile integration
+- Smarter AI decision making
+
+Created by Ayush
